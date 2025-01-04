@@ -10,7 +10,7 @@ This project implements an AI-based Image-to-Text system that generates descript
 - Extracts high-level features from images using a pre-trained Xception model.
 - Generates accurate and contextually relevant captions with LSTM.
 - Supports BLEU score evaluation for caption quality.
-- Modular implementation for easy extensibility.
+- Modular implementation for easy extensibility. 
 
 ---
 
